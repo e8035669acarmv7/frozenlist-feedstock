@@ -12,7 +12,7 @@ source:
 
 build:
   number: 0
-  skip: true  # [py<37]
+  skip: true  # [py<38]
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
@@ -23,6 +23,7 @@ requirements:
   host:
     - pip
     - python
+    - setuptools >=46.4.0
   run:
     - python
 
