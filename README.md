@@ -1,11 +1,11 @@
-About frozenlist
-================
+About frozenlist-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/frozenlist-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/aio-libs/frozenlist
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/frozenlist-feedstock/blob/main/LICENSE.txt)
 
 Summary: A list-like structure which implements collections.abc.MutableSequence
 
